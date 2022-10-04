@@ -1,6 +1,4 @@
 This contains code 1. It is modified.
-<<<<<<< HEAD
 It is merge conflict.
-=======
 It is merge.
->>>>>>> 75291afebc904343543b93c4ef5f38600edb85e0
+
