@@ -1,4 +1,0 @@
-This contains code 1. It is modified.
-It is merge conflict.
-It is merge.
-
